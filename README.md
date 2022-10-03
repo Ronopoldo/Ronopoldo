@@ -8,12 +8,14 @@
 
 
 
-- ![]https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+- ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
 Также, у меня есть YouTube канал, на котором 30 000 подписчиков. Если Вам интересно, то тоже можете посмотреть его: [Ronopoldo](http://youtube.com/ronopoldo "Ronopoldo")
 
 
 
 - ![](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)
+- 
 Иногда рисую цифровые рисунки - это Вы найдёте в моём DeviantArt: [Ronopoldo](https://www.deviantart.com/ronopoldo "Ronopoldo")
 
 Не уверен, что Вы найдёте что-либо полезное как там, так и здесь, на GitHub. Но в любом случае, рад, что Вы зашли ^^
