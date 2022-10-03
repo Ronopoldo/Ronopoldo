@@ -15,7 +15,7 @@
 
 
 - ![](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)
-- 
+
 Иногда рисую цифровые рисунки - это Вы найдёте в моём DeviantArt: [Ronopoldo](https://www.deviantart.com/ronopoldo "Ronopoldo")
 
 Не уверен, что Вы найдёте что-либо полезное как там, так и здесь, на GitHub. Но в любом случае, рад, что Вы зашли ^^
