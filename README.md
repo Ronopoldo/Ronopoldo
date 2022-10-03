@@ -1,4 +1,4 @@
-###Добро пожаловать!
+### Добро пожаловать!
 Приветствую, я - Ronopoldo, разрабатываю проекты на таких языках как `JavaScript`, `C#`, `PascalABC` и `Python`
 
 Один из моих самых крупных проектов называется [RonoRating](https://github.com/Ronopoldo/RonoRating "RonoRating"). Обязательно посмотрите его)
